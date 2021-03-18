@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>SpiderLog - 日記</title>
+	<link href="https://blog.lusaca.net/categories/ri-ji/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://blog.lusaca.net"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-03-21T00:00:00+00:00</updated>
+	<id>https://blog.lusaca.net/categories/ri-ji/atom.xml</id>
+	<entry xml:lang="en">
+		<title>ブログ新しくしました。</title>
+		<published>2021-03-21T00:00:00+00:00</published>
+		<updated>2021-03-21T00:00:00+00:00</updated>
+		<link href="https://blog.lusaca.net/posts/new-my-blog/" type="text/html"/>
+		<id>https://blog.lusaca.net/posts/new-my-blog/</id>
+		<content type="html">&lt;p&gt;どうも流坂です。（漢字表記なのは変換したとき、1番最初にでてくるから）&lt;&#x2F;p&gt;
+&lt;p&gt;今回はこのブログを再開する経緯、そして、ブログをサボっていた期間なにをしていたかを簡単に書きたいと思います。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;intanetutogahuai-reta&quot;&gt;インターネットが壊れた！！！&lt;&#x2F;h2&gt;
+&lt;p&gt;簡単にいえば僕のブログがぶっ壊れました。
+最初はRailsでシステムを自作して、運営していたんですよ！！！
+しかし世の中、物事は思い通りに行かないのですよ。
+Herokuの無料プランでデプロイしていたので、独自ドメインを使った場合SSL証明書が発行されないのでCloudflareを使っていたのですが、ドメインを他のサイトに使った関係でめんどくさいことになって、今度は静的サイトジェネレーターで作ってデプロイ先の選択しを増やしてやろうと思い、SSGを探す長い旅をはじめました。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ssghuai-reta&quot;&gt;SSG壊れた！！！&lt;&#x2F;h2&gt;
+&lt;p&gt;結局、自分に合うSSGが見つからなかったので、自作することにしたのですが、テスト勉強などをしているうちにモチベーションがなくなり、開発を断念してしまいました。
+（もう、書くのがだるくなってきている。。。）&lt;&#x2F;p&gt;
+&lt;p&gt;しかし、ドメイン代はなんとか回収しないとめんどくさいことになるので、Googleアドセンスを使って広告付けて小遣い稼ぎしてやろうという思考から早くブログを作らなければならないという決断して、結局最近勉強しているRustで作られたZolaを使ってブログを運営することを決めました。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;zui-hou-ni&quot;&gt;最後に&lt;&#x2F;h2&gt;
+&lt;p&gt;こんなクソ記事は今後一切投稿しないことをお約束します。
+よろしいお願いします。
+ちなみにZolaのテンプレートについては結構頑張ってカスタマイズしていくつもりです。&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
